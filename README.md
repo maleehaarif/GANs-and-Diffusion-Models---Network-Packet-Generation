@@ -1,6 +1,9 @@
 # GANs-and-Diffusion-Models---Network-Packet-Generation
 
 
+This project demonstrates the use of Generative Adversarial Networks (GANs) and Diffusion Models to generate synthetic network packet data. The generated data can be used to enhance the robustness of Network Intrusion Detection Systems (NIDS) by providing additional training data that mimics real network traffic patterns.
+
+
 **Download the Dataset**
 
 
@@ -55,7 +58,11 @@ The script automatically handles the preprocessing of the data:
 **Run the Program**
 
 
-The program can be executed using the main script:
+The program can be executed by running all cells in GAN.ipynb and DiffusionModel.ipynb scripts.
 
 
-python main.py
+**Output**
+
+The generated synthetic network packet data is saved as `gan_results.csv` and `diffusion_model_result.csv` in the local directory.
+
+
