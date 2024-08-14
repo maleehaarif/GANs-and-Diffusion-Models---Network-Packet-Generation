@@ -1,5 +1,9 @@
 # GANs-and-Diffusion-Models---Network-Packet-Generation
+
+
 **Download the Dataset**
+
+
 First access the dataset from the link - https://www.unb.ca/cic/datasets/ids-2017.html
 
 
@@ -7,14 +11,20 @@ Click on PCAPs and download each file and store it in a directory called gan_dat
 
 
 **Clone the Repository**
+
+
 git clone https://github.com/maleehaarif/GANs-and-Diffusion-Models---Network-Packet-Generation.git
 
 
 **Set Up the Environment**
+
+
 Ensure you have Python installed (preferably Python 3.7 or later). You can set up a virtual environment for the project:
 
 
 **Install Required Dependencies**
+
+
 Install all necessary Python libraries by running:
 
 
@@ -31,6 +41,8 @@ pip install -r requirements.txt
 
 
 **Preprocessing**
+
+
 The script automatically handles the preprocessing of the data:
 
 
